@@ -1,8 +1,6 @@
-# Module Pattern
+# Singleton Pattern
 
-## Add 'type' : 'module' in package.json
-
-## Then you can export frunction from different file
+## With the Singleton Pattern, we restrict the instantiation of certain classes to one ## single instance. This single instance is unmodifiable, and can be accessed globally ## throughout the application.
 
 ### How to run
 
